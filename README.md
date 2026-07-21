@@ -10,7 +10,7 @@ A production-ready data engineering pipeline that automatically collects daily s
 
 ## 📅 Daily Market Dashboard
 
-*Last Updated: 2026-07-21 01:59 UTC*
+*Last Updated: 2026-07-21 02:20 UTC*
 
 ### Stocks
 
@@ -27,10 +27,10 @@ A production-ready data engineering pipeline that automatically collects daily s
 
 | Asset | Price | 24h Change | 7-Day MA |
 |-------|-------|------------|----------|
-| **BNB-USD** | $571.68 | nan% | $571.68 |
-| **BTC-USD** | $65,194 | nan% | $65,193.84 |
-| **ETH-USD** | $1,906 | nan% | $1,906.05 |
-| **SOL-USD** | $77.78 | nan% | $77.78 |
+| **BNB-USD** | $570.84 | nan% | $570.84 |
+| **BTC-USD** | $65,144 | nan% | $65,143.95 |
+| **ETH-USD** | $1,904 | nan% | $1,903.88 |
+| **SOL-USD** | $77.63 | nan% | $77.63 |
 | **XRP-USD** | $1.11 | nan% | $1.11 |
 
 ### 📉 Latest Charts
