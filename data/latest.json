@@ -11,38 +11,38 @@
                             "fullExchangeName": "NasdaqGS",
                             "instrumentType": "EQUITY",
                             "firstTradeDate": 345479400,
-                            "regularMarketTime": 1785355201,
+                            "regularMarketTime": 1785441601,
                             "hasPrePostMarketData": true,
                             "gmtoffset": -14400,
                             "timezone": "EDT",
                             "exchangeTimezoneName": "America/New_York",
-                            "regularMarketPrice": 338.19,
+                            "regularMarketPrice": 333.43,
                             "fiftyTwoWeekHigh": 344.57,
                             "fiftyTwoWeekLow": 201.5,
-                            "regularMarketDayHigh": 344.57,
-                            "regularMarketDayLow": 337.35,
-                            "regularMarketVolume": 48852885,
+                            "regularMarketDayHigh": 334.75,
+                            "regularMarketDayLow": 329.59,
+                            "regularMarketVolume": 55501839,
                             "longName": "Apple Inc.",
                             "shortName": "Apple Inc.",
-                            "chartPreviousClose": 340.08,
+                            "chartPreviousClose": 338.19,
                             "priceHint": 2,
                             "currentTradingPeriod": {
                                 "pre": {
                                     "timezone": "EDT",
-                                    "start": 1785312000,
-                                    "end": 1785331800,
+                                    "end": 1785418200,
+                                    "start": 1785398400,
                                     "gmtoffset": -14400
                                 },
                                 "regular": {
                                     "timezone": "EDT",
-                                    "start": 1785331800,
-                                    "end": 1785355200,
+                                    "end": 1785441600,
+                                    "start": 1785418200,
                                     "gmtoffset": -14400
                                 },
                                 "post": {
                                     "timezone": "EDT",
-                                    "start": 1785355200,
-                                    "end": 1785369600,
+                                    "end": 1785456000,
+                                    "start": 1785441600,
                                     "gmtoffset": -14400
                                 }
                             },
@@ -63,32 +63,32 @@
                             ]
                         },
                         "timestamp": [
-                            1785331800
+                            1785418200
                         ],
                         "indicators": {
                             "quote": [
                                 {
-                                    "close": [
-                                        338.19000244140625
-                                    ],
                                     "high": [
-                                        344.56988525390625
+                                        334.75
                                     ],
-                                    "low": [
-                                        337.35009765625
-                                    ],
-                                    "volume": [
-                                        48852885
+                                    "close": [
+                                        333.42999267578125
                                     ],
                                     "open": [
-                                        339.69000244140625
+                                        333.1300048828125
+                                    ],
+                                    "volume": [
+                                        55501839
+                                    ],
+                                    "low": [
+                                        329.5899963378906
                                     ]
                                 }
                             ],
                             "adjclose": [
                                 {
                                     "adjclose": [
-                                        338.19000244140625
+                                        333.42999267578125
                                     ]
                                 }
                             ]
@@ -109,38 +109,38 @@
                             "fullExchangeName": "NasdaqGS",
                             "instrumentType": "EQUITY",
                             "firstTradeDate": 511108200,
-                            "regularMarketTime": 1785355201,
+                            "regularMarketTime": 1785441601,
                             "hasPrePostMarketData": true,
                             "gmtoffset": -14400,
                             "timezone": "EDT",
                             "exchangeTimezoneName": "America/New_York",
-                            "regularMarketPrice": 390.54,
+                            "regularMarketPrice": 451.1,
                             "fiftyTwoWeekHigh": 555.45,
                             "fiftyTwoWeekLow": 349.2,
-                            "regularMarketDayHigh": 401.25,
-                            "regularMarketDayLow": 388.743,
-                            "regularMarketVolume": 42418496,
+                            "regularMarketDayHigh": 458.69,
+                            "regularMarketDayLow": 432.44,
+                            "regularMarketVolume": 109342280,
                             "longName": "Microsoft Corporation",
                             "shortName": "Microsoft Corporation",
-                            "chartPreviousClose": 393.35,
+                            "chartPreviousClose": 390.54,
                             "priceHint": 2,
                             "currentTradingPeriod": {
                                 "pre": {
                                     "timezone": "EDT",
-                                    "start": 1785312000,
-                                    "end": 1785331800,
+                                    "start": 1785398400,
+                                    "end": 1785418200,
                                     "gmtoffset": -14400
                                 },
                                 "regular": {
                                     "timezone": "EDT",
-                                    "start": 1785331800,
-                                    "end": 1785355200,
+                                    "start": 1785418200,
+                                    "end": 1785441600,
                                     "gmtoffset": -14400
                                 },
                                 "post": {
                                     "timezone": "EDT",
-                                    "start": 1785355200,
-                                    "end": 1785369600,
+                                    "start": 1785441600,
+                                    "end": 1785456000,
                                     "gmtoffset": -14400
                                 }
                             },
@@ -161,32 +161,32 @@
                             ]
                         },
                         "timestamp": [
-                            1785331800
+                            1785418200
                         ],
                         "indicators": {
                             "quote": [
                                 {
-                                    "high": [
-                                        401.25
-                                    ],
                                     "close": [
-                                        390.5400085449219
+                                        451.1000061035156
+                                    ],
+                                    "high": [
+                                        458.69000244140625
                                     ],
                                     "low": [
-                                        388.7430114746094
+                                        432.44000244140625
                                     ],
                                     "volume": [
-                                        42418496
+                                        109342280
                                     ],
                                     "open": [
-                                        393.3999938964844
+                                        438.5
                                     ]
                                 }
                             ],
                             "adjclose": [
                                 {
                                     "adjclose": [
-                                        390.5400085449219
+                                        451.1000061035156
                                     ]
                                 }
                             ]
@@ -207,38 +207,38 @@
                             "fullExchangeName": "NasdaqGS",
                             "instrumentType": "EQUITY",
                             "firstTradeDate": 917015400,
-                            "regularMarketTime": 1785355201,
+                            "regularMarketTime": 1785441600,
                             "hasPrePostMarketData": true,
                             "gmtoffset": -14400,
                             "timezone": "EDT",
                             "exchangeTimezoneName": "America/New_York",
-                            "regularMarketPrice": 190.01,
+                            "regularMarketPrice": 195.04,
                             "fiftyTwoWeekHigh": 236.54,
                             "fiftyTwoWeekLow": 164.07,
-                            "regularMarketDayHigh": 197.074,
-                            "regularMarketDayLow": 190.01,
-                            "regularMarketVolume": 136609393,
+                            "regularMarketDayHigh": 197.25,
+                            "regularMarketDayLow": 191.52,
+                            "regularMarketVolume": 123110210,
                             "longName": "NVIDIA Corporation",
                             "shortName": "NVIDIA Corporation",
-                            "chartPreviousClose": 197.01,
+                            "chartPreviousClose": 190.01,
                             "priceHint": 2,
                             "currentTradingPeriod": {
                                 "pre": {
                                     "timezone": "EDT",
-                                    "end": 1785331800,
-                                    "start": 1785312000,
+                                    "end": 1785418200,
+                                    "start": 1785398400,
                                     "gmtoffset": -14400
                                 },
                                 "regular": {
                                     "timezone": "EDT",
-                                    "end": 1785355200,
-                                    "start": 1785331800,
+                                    "end": 1785441600,
+                                    "start": 1785418200,
                                     "gmtoffset": -14400
                                 },
                                 "post": {
                                     "timezone": "EDT",
-                                    "end": 1785369600,
-                                    "start": 1785355200,
+                                    "end": 1785456000,
+                                    "start": 1785441600,
                                     "gmtoffset": -14400
                                 }
                             },
@@ -259,32 +259,32 @@
                             ]
                         },
                         "timestamp": [
-                            1785331800
+                            1785418200
                         ],
                         "indicators": {
                             "quote": [
                                 {
-                                    "low": [
-                                        190.00999450683594
+                                    "close": [
+                                        195.0399932861328
                                     ],
                                     "volume": [
-                                        136609393
-                                    ],
-                                    "high": [
-                                        197.07400512695312
+                                        123110210
                                     ],
                                     "open": [
-                                        195.84500122070312
+                                        193.4499969482422
                                     ],
-                                    "close": [
-                                        190.00999450683594
+                                    "high": [
+                                        197.25
+                                    ],
+                                    "low": [
+                                        191.52000427246094
                                     ]
                                 }
                             ],
                             "adjclose": [
                                 {
                                     "adjclose": [
-                                        190.00999450683594
+                                        195.0399932861328
                                     ]
                                 }
                             ]
@@ -305,38 +305,38 @@
                             "fullExchangeName": "NasdaqGS",
                             "instrumentType": "EQUITY",
                             "firstTradeDate": 1092922200,
-                            "regularMarketTime": 1785355201,
+                            "regularMarketTime": 1785441601,
                             "hasPrePostMarketData": true,
                             "gmtoffset": -14400,
                             "timezone": "EDT",
                             "exchangeTimezoneName": "America/New_York",
-                            "regularMarketPrice": 336.71,
+                            "regularMarketPrice": 333.66,
                             "fiftyTwoWeekHigh": 408.61,
                             "fiftyTwoWeekLow": 187.82,
-                            "regularMarketDayHigh": 342.5,
-                            "regularMarketDayLow": 331.62,
-                            "regularMarketVolume": 26972279,
+                            "regularMarketDayHigh": 336.51,
+                            "regularMarketDayLow": 330.34,
+                            "regularMarketVolume": 29924768,
                             "longName": "Alphabet Inc.",
                             "shortName": "Alphabet Inc.",
-                            "chartPreviousClose": 333.71,
+                            "chartPreviousClose": 336.71,
                             "priceHint": 2,
                             "currentTradingPeriod": {
                                 "pre": {
                                     "timezone": "EDT",
-                                    "start": 1785312000,
-                                    "end": 1785331800,
+                                    "end": 1785418200,
+                                    "start": 1785398400,
                                     "gmtoffset": -14400
                                 },
                                 "regular": {
                                     "timezone": "EDT",
-                                    "start": 1785331800,
-                                    "end": 1785355200,
+                                    "end": 1785441600,
+                                    "start": 1785418200,
                                     "gmtoffset": -14400
                                 },
                                 "post": {
                                     "timezone": "EDT",
-                                    "start": 1785355200,
-                                    "end": 1785369600,
+                                    "end": 1785456000,
+                                    "start": 1785441600,
                                     "gmtoffset": -14400
                                 }
                             },
@@ -357,32 +357,32 @@
                             ]
                         },
                         "timestamp": [
-                            1785331800
+                            1785418200
                         ],
                         "indicators": {
                             "quote": [
                                 {
                                     "close": [
-                                        336.7099914550781
+                                        333.6600036621094
                                     ],
                                     "volume": [
-                                        26972279
-                                    ],
-                                    "high": [
-                                        342.5
+                                        29924768
                                     ],
                                     "open": [
-                                        334.5199890136719
+                                        334.19500732421875
                                     ],
                                     "low": [
-                                        331.6199951171875
+                                        330.3399963378906
+                                    ],
+                                    "high": [
+                                        336.510009765625
                                     ]
                                 }
                             ],
                             "adjclose": [
                                 {
                                     "adjclose": [
-                                        336.7099914550781
+                                        333.6600036621094
                                     ]
                                 }
                             ]
@@ -403,38 +403,38 @@
                             "fullExchangeName": "NasdaqGS",
                             "instrumentType": "EQUITY",
                             "firstTradeDate": 863703000,
-                            "regularMarketTime": 1785355201,
+                            "regularMarketTime": 1785441601,
                             "hasPrePostMarketData": true,
                             "gmtoffset": -14400,
                             "timezone": "EDT",
                             "exchangeTimezoneName": "America/New_York",
-                            "regularMarketPrice": 226.65,
+                            "regularMarketPrice": 235.5,
                             "fiftyTwoWeekHigh": 278.56,
                             "fiftyTwoWeekLow": 196.0,
-                            "regularMarketDayHigh": 232.82,
-                            "regularMarketDayLow": 226.16,
-                            "regularMarketVolume": 39985089,
+                            "regularMarketDayHigh": 239.824,
+                            "regularMarketDayLow": 231.06,
+                            "regularMarketVolume": 78755052,
                             "longName": "Amazon.com, Inc.",
                             "shortName": "Amazon.com, Inc.",
-                            "chartPreviousClose": 230.86,
+                            "chartPreviousClose": 226.65,
                             "priceHint": 2,
                             "currentTradingPeriod": {
                                 "pre": {
                                     "timezone": "EDT",
-                                    "end": 1785331800,
-                                    "start": 1785312000,
+                                    "end": 1785418200,
+                                    "start": 1785398400,
                                     "gmtoffset": -14400
                                 },
                                 "regular": {
                                     "timezone": "EDT",
-                                    "end": 1785355200,
-                                    "start": 1785331800,
+                                    "end": 1785441600,
+                                    "start": 1785418200,
                                     "gmtoffset": -14400
                                 },
                                 "post": {
                                     "timezone": "EDT",
-                                    "end": 1785369600,
-                                    "start": 1785355200,
+                                    "end": 1785456000,
+                                    "start": 1785441600,
                                     "gmtoffset": -14400
                                 }
                             },
@@ -455,32 +455,32 @@
                             ]
                         },
                         "timestamp": [
-                            1785331800
+                            1785418200
                         ],
                         "indicators": {
                             "quote": [
                                 {
                                     "open": [
-                                        229.31500244140625
-                                    ],
-                                    "close": [
-                                        226.64999389648438
-                                    ],
-                                    "low": [
-                                        226.16000366210938
-                                    ],
-                                    "high": [
-                                        232.82000732421875
+                                        233.25
                                     ],
                                     "volume": [
-                                        39985089
+                                        78755052
+                                    ],
+                                    "low": [
+                                        231.05999755859375
+                                    ],
+                                    "high": [
+                                        239.82359313964844
+                                    ],
+                                    "close": [
+                                        235.5
                                     ]
                                 }
                             ],
                             "adjclose": [
                                 {
                                     "adjclose": [
-                                        226.64999389648438
+                                        235.5
                                     ]
                                 }
                             ]
@@ -501,38 +501,38 @@
                             "fullExchangeName": "NasdaqGS",
                             "instrumentType": "EQUITY",
                             "firstTradeDate": 1277818200,
-                            "regularMarketTime": 1785355200,
+                            "regularMarketTime": 1785441600,
                             "hasPrePostMarketData": true,
                             "gmtoffset": -14400,
                             "timezone": "EDT",
                             "exchangeTimezoneName": "America/New_York",
-                            "regularMarketPrice": 298.32,
+                            "regularMarketPrice": 308.85,
                             "fiftyTwoWeekHigh": 498.83,
                             "fiftyTwoWeekLow": 297.38,
-                            "regularMarketDayHigh": 309.045,
-                            "regularMarketDayLow": 297.38,
-                            "regularMarketVolume": 38734788,
+                            "regularMarketDayHigh": 310.87,
+                            "regularMarketDayLow": 301.35,
+                            "regularMarketVolume": 36553979,
                             "longName": "Tesla, Inc.",
                             "shortName": "Tesla, Inc.",
-                            "chartPreviousClose": 307.44,
+                            "chartPreviousClose": 298.32,
                             "priceHint": 2,
                             "currentTradingPeriod": {
                                 "pre": {
                                     "timezone": "EDT",
-                                    "start": 1785312000,
-                                    "end": 1785331800,
+                                    "end": 1785418200,
+                                    "start": 1785398400,
                                     "gmtoffset": -14400
                                 },
                                 "regular": {
                                     "timezone": "EDT",
-                                    "start": 1785331800,
-                                    "end": 1785355200,
+                                    "end": 1785441600,
+                                    "start": 1785418200,
                                     "gmtoffset": -14400
                                 },
                                 "post": {
                                     "timezone": "EDT",
-                                    "start": 1785355200,
-                                    "end": 1785369600,
+                                    "end": 1785456000,
+                                    "start": 1785441600,
                                     "gmtoffset": -14400
                                 }
                             },
@@ -553,32 +553,32 @@
                             ]
                         },
                         "timestamp": [
-                            1785331800
+                            1785418200
                         ],
                         "indicators": {
                             "quote": [
                                 {
-                                    "close": [
-                                        298.32000732421875
-                                    ],
-                                    "open": [
-                                        307.32000732421875
+                                    "high": [
+                                        310.8699951171875
                                     ],
                                     "low": [
-                                        297.3800048828125
-                                    ],
-                                    "high": [
-                                        309.0450134277344
+                                        301.3500061035156
                                     ],
                                     "volume": [
-                                        38734788
+                                        36553979
+                                    ],
+                                    "open": [
+                                        302.885009765625
+                                    ],
+                                    "close": [
+                                        308.8500061035156
                                     ]
                                 }
                             ],
                             "adjclose": [
                                 {
                                     "adjclose": [
-                                        298.32000732421875
+                                        308.8500061035156
                                     ]
                                 }
                             ]
@@ -601,38 +601,38 @@
                             "fullExchangeName": "CCC",
                             "instrumentType": "CRYPTOCURRENCY",
                             "firstTradeDate": 1410912000,
-                            "regularMarketTime": 1785376486,
+                            "regularMarketTime": 1785464007,
                             "hasPrePostMarketData": false,
                             "gmtoffset": 0,
                             "timezone": "UTC",
                             "exchangeTimezoneName": "UTC",
-                            "regularMarketPrice": 64227.01,
+                            "regularMarketPrice": 64464.84,
                             "fiftyTwoWeekHigh": 126198.07,
                             "fiftyTwoWeekLow": 57747.766,
-                            "regularMarketDayHigh": 64132.16,
-                            "regularMarketDayLow": 63547.793,
-                            "regularMarketVolume": 28382050304,
+                            "regularMarketDayHigh": 65271.168,
+                            "regularMarketDayLow": 64450.316,
+                            "regularMarketVolume": 26763939840,
                             "longName": "Bitcoin USD",
                             "shortName": "Bitcoin USD",
-                            "chartPreviousClose": 63902.9,
+                            "chartPreviousClose": 64724.03,
                             "priceHint": 2,
                             "currentTradingPeriod": {
                                 "pre": {
                                     "timezone": "UTC",
-                                    "start": 1785369600,
-                                    "end": 1785369600,
+                                    "end": 1785456000,
+                                    "start": 1785456000,
                                     "gmtoffset": 0
                                 },
                                 "regular": {
                                     "timezone": "UTC",
-                                    "start": 1785369600,
-                                    "end": 1785455940,
+                                    "end": 1785542340,
+                                    "start": 1785456000,
                                     "gmtoffset": 0
                                 },
                                 "post": {
                                     "timezone": "UTC",
-                                    "start": 1785455940,
-                                    "end": 1785455940,
+                                    "end": 1785542340,
+                                    "start": 1785542340,
                                     "gmtoffset": 0
                                 }
                             },
@@ -653,32 +653,32 @@
                             ]
                         },
                         "timestamp": [
-                            1785376486
+                            1785464007
                         ],
                         "indicators": {
                             "quote": [
                                 {
-                                    "low": [
-                                        63547.79296875
-                                    ],
-                                    "volume": [
-                                        28382050304
+                                    "open": [
+                                        64724.03125
                                     ],
                                     "close": [
-                                        64227.01171875
+                                        64464.83984375
                                     ],
-                                    "open": [
-                                        63902.8984375
+                                    "low": [
+                                        64450.31640625
                                     ],
                                     "high": [
-                                        64132.16015625
+                                        65271.16796875
+                                    ],
+                                    "volume": [
+                                        26763939840
                                     ]
                                 }
                             ],
                             "adjclose": [
                                 {
                                     "adjclose": [
-                                        64227.01171875
+                                        64464.83984375
                                     ]
                                 }
                             ]
@@ -699,38 +699,38 @@
                             "fullExchangeName": "CCC",
                             "instrumentType": "CRYPTOCURRENCY",
                             "firstTradeDate": 1510185600,
-                            "regularMarketTime": 1785376490,
+                            "regularMarketTime": 1785464005,
                             "hasPrePostMarketData": false,
                             "gmtoffset": 0,
                             "timezone": "UTC",
                             "exchangeTimezoneName": "UTC",
-                            "regularMarketPrice": 1917.65,
+                            "regularMarketPrice": 1908.25,
                             "fiftyTwoWeekHigh": 4953.733,
-                            "fiftyTwoWeekLow": 1506.5057,
-                            "regularMarketDayHigh": 1915.8793,
-                            "regularMarketDayLow": 1892.4958,
-                            "regularMarketVolume": 12010314752,
+                            "fiftyTwoWeekLow": 1506.506,
+                            "regularMarketDayHigh": 1933.778,
+                            "regularMarketDayLow": 1905.622,
+                            "regularMarketVolume": 8160791040,
                             "longName": "Ethereum USD",
                             "shortName": "Ethereum USD",
-                            "chartPreviousClose": 1908.3378,
+                            "chartPreviousClose": 1917.157,
                             "priceHint": 2,
                             "currentTradingPeriod": {
                                 "pre": {
                                     "timezone": "UTC",
-                                    "start": 1785369600,
-                                    "end": 1785369600,
+                                    "end": 1785456000,
+                                    "start": 1785456000,
                                     "gmtoffset": 0
                                 },
                                 "regular": {
                                     "timezone": "UTC",
-                                    "start": 1785369600,
-                                    "end": 1785455940,
+                                    "end": 1785542340,
+                                    "start": 1785456000,
                                     "gmtoffset": 0
                                 },
                                 "post": {
                                     "timezone": "UTC",
-                                    "start": 1785455940,
-                                    "end": 1785455940,
+                                    "end": 1785542340,
+                                    "start": 1785542340,
                                     "gmtoffset": 0
                                 }
                             },
@@ -751,32 +751,32 @@
                             ]
                         },
                         "timestamp": [
-                            1785376490
+                            1785464005
                         ],
                         "indicators": {
                             "quote": [
                                 {
+                                    "high": [
+                                        1933.77783203125
+                                    ],
                                     "close": [
-                                        1917.6500244140625
+                                        1908.25
                                     ],
                                     "volume": [
-                                        12010314752
+                                        8160791040
                                     ],
                                     "open": [
-                                        1908.3377685546875
-                                    ],
-                                    "high": [
-                                        1915.8792724609375
+                                        1917.156982421875
                                     ],
                                     "low": [
-                                        1892.495849609375
+                                        1905.6219482421875
                                     ]
                                 }
                             ],
                             "adjclose": [
                                 {
                                     "adjclose": [
-                                        1917.6500244140625
+                                        1908.25
                                     ]
                                 }
                             ]
@@ -797,38 +797,38 @@
                             "fullExchangeName": "CCC",
                             "instrumentType": "CRYPTOCURRENCY",
                             "firstTradeDate": 1586476800,
-                            "regularMarketTime": 1785376487,
+                            "regularMarketTime": 1785464001,
                             "hasPrePostMarketData": false,
                             "gmtoffset": 0,
                             "timezone": "UTC",
                             "exchangeTimezoneName": "UTC",
-                            "regularMarketPrice": 74.06,
+                            "regularMarketPrice": 74.37,
                             "fiftyTwoWeekHigh": 253.2099,
                             "fiftyTwoWeekLow": 60.41472,
-                            "regularMarketDayHigh": 73.99796,
-                            "regularMarketDayLow": 73.11314,
-                            "regularMarketVolume": 1891222528,
+                            "regularMarketDayHigh": 75.04383,
+                            "regularMarketDayLow": 74.31032,
+                            "regularMarketVolume": 1489083520,
                             "longName": "Solana USD",
                             "shortName": "Solana USD",
-                            "chartPreviousClose": 73.59772,
+                            "chartPreviousClose": 74.46392,
                             "priceHint": 2,
                             "currentTradingPeriod": {
                                 "pre": {
                                     "timezone": "UTC",
-                                    "start": 1785369600,
-                                    "end": 1785369600,
+                                    "start": 1785456000,
+                                    "end": 1785456000,
                                     "gmtoffset": 0
                                 },
                                 "regular": {
                                     "timezone": "UTC",
-                                    "start": 1785369600,
-                                    "end": 1785455940,
+                                    "start": 1785456000,
+                                    "end": 1785542340,
                                     "gmtoffset": 0
                                 },
                                 "post": {
                                     "timezone": "UTC",
-                                    "start": 1785455940,
-                                    "end": 1785455940,
+                                    "start": 1785542340,
+                                    "end": 1785542340,
                                     "gmtoffset": 0
                                 }
                             },
@@ -849,32 +849,32 @@
                             ]
                         },
                         "timestamp": [
-                            1785376487
+                            1785464001
                         ],
                         "indicators": {
                             "quote": [
                                 {
-                                    "volume": [
-                                        1891222528
+                                    "open": [
+                                        74.46392059326172
                                     ],
                                     "low": [
-                                        73.1131362915039
+                                        74.31031799316406
+                                    ],
+                                    "volume": [
+                                        1489083520
                                     ],
                                     "high": [
-                                        73.99795532226562
+                                        75.04383087158203
                                     ],
                                     "close": [
-                                        74.05999755859375
-                                    ],
-                                    "open": [
-                                        73.59771728515625
+                                        74.37000274658203
                                     ]
                                 }
                             ],
                             "adjclose": [
                                 {
                                     "adjclose": [
-                                        74.05999755859375
+                                        74.37000274658203
                                     ]
                                 }
                             ]
@@ -895,38 +895,38 @@
                             "fullExchangeName": "CCC",
                             "instrumentType": "CRYPTOCURRENCY",
                             "firstTradeDate": 1510185600,
-                            "regularMarketTime": 1785376486,
+                            "regularMarketTime": 1785463990,
                             "hasPrePostMarketData": false,
                             "gmtoffset": 0,
                             "timezone": "UTC",
                             "exchangeTimezoneName": "UTC",
-                            "regularMarketPrice": 575.1,
+                            "regularMarketPrice": 589.07,
                             "fiftyTwoWeekHigh": 1370.546,
-                            "fiftyTwoWeekLow": 538.5992,
-                            "regularMarketDayHigh": 574.2501,
-                            "regularMarketDayLow": 570.5547,
-                            "regularMarketVolume": 965079040,
+                            "fiftyTwoWeekLow": 538.59924,
+                            "regularMarketDayHigh": 593.15295,
+                            "regularMarketDayLow": 588.8436,
+                            "regularMarketVolume": 1341548416,
                             "longName": "BNB USD",
                             "shortName": "BNB USD",
-                            "chartPreviousClose": 571.3866,
+                            "chartPreviousClose": 592.00836,
                             "priceHint": 2,
                             "currentTradingPeriod": {
                                 "pre": {
                                     "timezone": "UTC",
-                                    "start": 1785369600,
-                                    "end": 1785369600,
+                                    "start": 1785456000,
+                                    "end": 1785456000,
                                     "gmtoffset": 0
                                 },
                                 "regular": {
                                     "timezone": "UTC",
-                                    "start": 1785369600,
-                                    "end": 1785455940,
+                                    "start": 1785456000,
+                                    "end": 1785542340,
                                     "gmtoffset": 0
                                 },
                                 "post": {
                                     "timezone": "UTC",
-                                    "start": 1785455940,
-                                    "end": 1785455940,
+                                    "start": 1785542340,
+                                    "end": 1785542340,
                                     "gmtoffset": 0
                                 }
                             },
@@ -947,32 +947,32 @@
                             ]
                         },
                         "timestamp": [
-                            1785376486
+                            1785463990
                         ],
                         "indicators": {
                             "quote": [
                                 {
-                                    "close": [
-                                        575.0999755859375
-                                    ],
-                                    "open": [
-                                        571.3865966796875
-                                    ],
                                     "low": [
-                                        570.5547485351562
-                                    ],
-                                    "high": [
-                                        574.2500610351562
+                                        588.8436279296875
                                     ],
                                     "volume": [
-                                        965079040
+                                        1341548416
+                                    ],
+                                    "close": [
+                                        589.0700073242188
+                                    ],
+                                    "open": [
+                                        592.0083618164062
+                                    ],
+                                    "high": [
+                                        593.1529541015625
                                     ]
                                 }
                             ],
                             "adjclose": [
                                 {
                                     "adjclose": [
-                                        575.0999755859375
+                                        589.0700073242188
                                     ]
                                 }
                             ]
@@ -993,38 +993,38 @@
                             "fullExchangeName": "CCC",
                             "instrumentType": "CRYPTOCURRENCY",
                             "firstTradeDate": 1510185600,
-                            "regularMarketTime": 1785376491,
+                            "regularMarketTime": 1785464004,
                             "hasPrePostMarketData": false,
                             "gmtoffset": 0,
                             "timezone": "UTC",
                             "exchangeTimezoneName": "UTC",
-                            "regularMarketPrice": 1.0795,
+                            "regularMarketPrice": 1.08,
                             "fiftyTwoWeekHigh": 3.375807,
                             "fiftyTwoWeekLow": 1.009753,
-                            "regularMarketDayHigh": 1.0786296,
-                            "regularMarketDayLow": 1.0679854,
-                            "regularMarketVolume": 1539191168,
+                            "regularMarketDayHigh": 1.0872856,
+                            "regularMarketDayLow": 1.0792576,
+                            "regularMarketVolume": 1023094336,
                             "longName": "XRP USD",
                             "shortName": "XRP USD",
-                            "chartPreviousClose": 1.0728538,
+                            "chartPreviousClose": 1.0833341,
                             "priceHint": 4,
                             "currentTradingPeriod": {
                                 "pre": {
                                     "timezone": "UTC",
-                                    "start": 1785369600,
-                                    "end": 1785369600,
+                                    "end": 1785456000,
+                                    "start": 1785456000,
                                     "gmtoffset": 0
                                 },
                                 "regular": {
                                     "timezone": "UTC",
-                                    "start": 1785369600,
-                                    "end": 1785455940,
+                                    "end": 1785542340,
+                                    "start": 1785456000,
                                     "gmtoffset": 0
                                 },
                                 "post": {
                                     "timezone": "UTC",
-                                    "start": 1785455940,
-                                    "end": 1785455940,
+                                    "end": 1785542340,
+                                    "start": 1785542340,
                                     "gmtoffset": 0
                                 }
                             },
@@ -1045,32 +1045,32 @@
                             ]
                         },
                         "timestamp": [
-                            1785376491
+                            1785464004
                         ],
                         "indicators": {
                             "quote": [
                                 {
-                                    "open": [
-                                        1.0728538036346436
-                                    ],
                                     "volume": [
-                                        1539191168
-                                    ],
-                                    "low": [
-                                        1.0679854154586792
-                                    ],
-                                    "high": [
-                                        1.0786296129226685
+                                        1023094336
                                     ],
                                     "close": [
-                                        1.0794999599456787
+                                        1.0800000429153442
+                                    ],
+                                    "low": [
+                                        1.079257607460022
+                                    ],
+                                    "high": [
+                                        1.0872856378555298
+                                    ],
+                                    "open": [
+                                        1.0833340883255005
                                     ]
                                 }
                             ],
                             "adjclose": [
                                 {
                                     "adjclose": [
-                                        1.0794999599456787
+                                        1.0800000429153442
                                     ]
                                 }
                             ]
