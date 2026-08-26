@@ -10,33 +10,33 @@ A production-ready data engineering pipeline that automatically collects daily s
 
 ## 📅 Daily Market Dashboard
 
-*Last Updated: 2026-08-25 00:56 UTC*
+*Last Updated: 2026-08-26 00:58 UTC*
 
 ### Stocks
 
 | Asset | Price | 24h Change | 7-Day MA |
 |-------|-------|------------|----------|
-| **AAPL** | $310.34 | +0.32% | $309.91 |
-| **AMZN** | $262.07 | +1.33% | $261.44 |
-| **GOOGL** | $348.06 | +0.94% | $344.62 |
-| **MSFT** | $487.31 | +0.84% | $484.77 |
-| **NVDA** | $208.48 | -2.91% | $218.22 |
-| **TSLA** | $348.95 | -3.83% | $346.64 |
+| **AAPL** | $309.90 | -0.14% | $310.48 |
+| **AMZN** | $261.06 | -0.39% | $261.21 |
+| **GOOGL** | $346.96 | -0.32% | $344.78 |
+| **MSFT** | $491.71 | +0.90% | $484.24 |
+| **NVDA** | $213.05 | +2.19% | $216.49 |
+| **TSLA** | $350.25 | +0.37% | $347.78 |
 
 ### Crypto
 
 | Asset | Price | 24h Change | 7-Day MA |
 |-------|-------|------------|----------|
-| **BNB-USD** | $710.55 | +3.42% | $642.76 |
-| **BTC-USD** | $79,785 | +2.53% | $70,355.89 |
-| **ETH-USD** | $2,496 | -0.73% | $2,188.37 |
-| **SOL-USD** | $102.00 | +8.97% | $85.31 |
-| **XRP-USD** | $1.51 | +4.51% | $1.19 |
+| **BNB-USD** | $694.14 | -2.31% | $655.16 |
+| **BTC-USD** | $78,658 | -1.41% | $72,602.35 |
+| **ETH-USD** | $2,448 | -1.91% | $2,269.50 |
+| **SOL-USD** | $96.81 | -5.09% | $88.38 |
+| **XRP-USD** | $1.43 | -4.89% | $1.25 |
 
 ### 📈 Daily Market Movers
 
-- **Top Gainer:** SOL-USD (+8.97%)
-- **Top Loser:** TSLA (-3.83%)
+- **Top Gainer:** NVDA (+2.19%)
+- **Top Loser:** SOL-USD (-5.09%)
 
 ### 📉 Latest Charts
 
@@ -49,8 +49,8 @@ A production-ready data engineering pipeline that automatically collects daily s
 
 ### 📊 Dataset Statistics
 
-- **Historical Days Collected:** 32
-- **Total Records:** 281
+- **Historical Days Collected:** 33
+- **Total Records:** 292
 - **Pipeline Status:** Healthy 🟢
 
 <!-- DASHBOARD_END -->
